@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: ComboCamera_OV2640.GBR   19.05.2020  15:55:12
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1                                      
+.G1                 L2                                      
+.G2                 L3                                      
+.GBL                L4                                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+------------------------------------------------------------------------------------------

@@ -1,0 +1,290 @@
+*************************************************************
+FileName = ComboCamera_OV2640.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : ComboCamera_OV2640.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D12
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ComboCamera_OV2640.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ComboCamera_OV2640.GPT
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ComboCamera_OV2640.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : ComboCamera_OV2640.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ComboCamera_OV2640.GPB
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D42
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : L4
+      File : ComboCamera_OV2640.GBL
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D25
+    D26
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ComboCamera_OV2640.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ComboCamera_OV2640.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : L1
+      File : ComboCamera_OV2640.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ComboCamera_OV2640.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D37
+    D38
+    D39
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ComboCamera_OV2640.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : ComboCamera_OV2640.G1
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D41
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ComboCamera_OV2640.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : L3
+      File : ComboCamera_OV2640.G2
+
+    Adding Layer      : L3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D42
+    D43
+*************************************************************
+

@@ -1,0 +1,11 @@
+Output: ComboCamera BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ComboCamera_OV2640.PrjPcb]
+   Generated File[ComboCamera BOM-ComboCamera_OV2640.xls]
+   Generated File[ComboCamera BOM-ComboCamera_OV2640.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 15:55:30 On 19.05.2020

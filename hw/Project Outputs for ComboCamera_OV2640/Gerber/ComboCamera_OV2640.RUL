@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: P:\YILDIZIoT\Camera Modules\DigitalThermal_Camera\ComboCamera-Module\hw\ComboCamera_OV2640.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.50
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
